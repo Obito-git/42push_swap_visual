@@ -15,5 +15,6 @@ bash visualize.sh 10 9 1 0 -5 8 4 3
 For the current version you **cant** check:
 - dublicates
 - result
+
 You cannot speed up or slow down the display.
 It's not checked on Mac.
